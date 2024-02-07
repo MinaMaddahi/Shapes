@@ -8,9 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 0
-    path: Assets/Super Furniture Free Pack/Scenes/Demo.unity
-    guid: a0432c82cdb725b4aadfa13e840ee570
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: be9917becad705c478864c23e843a01c,
       type: 2}
